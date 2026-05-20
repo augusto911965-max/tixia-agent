@@ -1,0 +1,12 @@
+{
+  "commands": [
+    {
+      "id": "001-read-evento",
+      "op": "read",
+      "args": {
+        "file": "evento.html"
+      },
+      "sig": "63e84b4ee65cecad87fa0f3541de1738e8c3661286f2b489a27a3a50550e8590"
+    }
+  ]
+}
