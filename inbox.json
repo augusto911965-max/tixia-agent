@@ -1,14 +1,14 @@
 {
   "commands": [
     {
-      "id": "fix-pago-004",
+      "id": "fix-pago-1779324246",
       "op": "replace",
       "args": {
         "file": "evento.html",
         "old": "ICB2YXIgZXYgPSB3aW5kb3cuX2V2ZW50b0FjdHVhbDsKICB2YXIgZXNHcmF0aXMgPSAhZXYgfHwgZXYuZ3JhdGlzIHx8ICFldi5wcmVjaW9DT1AgfHwgZXYucHJlY2lvQ09QID09PSAwOwogIHZhciBldiA9IHdpbmRvdy5fZXZlbnRvQWN0dWFsIHx8IHt9OwogIHZhciBtb250byA9IGV2ID8gcGFyc2VJbnQoZXYucHJlY2lvQ09QIHx8IDApIDogMDs=",
         "new": "ICB2YXIgZXYgPSB3aW5kb3cuX2V2ZW50b0FjdHVhbCB8fCB7fTsKICB2YXIgbW9udG8gPSBwYXJzZUludChldi5wcmVjaW9DT1AgfHwgMCkgfHwgMDs="
       },
-      "sig": "998ea5966baf6d49dc2d52ac0da29cecdc989db2237d6f3ec12ec2e38236edc4"
+      "sig": "852bd87f5afd83323be4dc94e85f93eb88346cdffc517a572b77ba4540f98c08"
     }
   ]
 }
